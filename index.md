@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Core mantle interactions through time
 ---
 # The school
 
