@@ -1,0 +1,81 @@
+Script started on Thu Sep 24 10:22:22 2020
+[1m[7m%[27m[1m[0m                                                                                                                                                                                     ]2;stephane@dhcp-101-220: ~/ownCloud/WebGithub2/cayman]1;..ithub2/cayman[0m[27m[24m[J[35mstephane[00m[36m@[00m[33mdhcp-101-220[00m[31m:[00m[36m~/ownCloud/WebGithub2/cayman[00m[31m|[00m[00m[32mmaster[33m⚡[00m[00m 
+[36m⇒[00m  [K[?1h=[?2004h[7mbundle exec jekyll serve[27m[24D[27m[32mb[27m[32mu[27m[32mn[27m[32md[27m[32ml[27m[32me[39m[27m [27me[27mx[27me[27mc[27m [27mj[27me[27mk[27my[27ml[27ml[27m [27ms[27me[27mr[27mv[27me[?1l>[?2004l
+]2;bundle exec jekyll serve]1;bundleConfiguration file: /Users/stephane/ownCloud/WebGithub2/cayman/_config.yml
+ Theme Config file: /Users/stephane/ownCloud/WebGithub2/cayman/_config.yml
+            Source: /Users/stephane/ownCloud/WebGithub2/cayman
+       Destination: /Users/stephane/ownCloud/WebGithub2/cayman/_site
+ Incremental build: disabled. Enable with --incremental
+      Generating... 
+                    done in 0.304 seconds.
+ Auto-regeneration: enabled for '/Users/stephane/ownCloud/WebGithub2/cayman'
+    Server address: http://127.0.0.1:4000
+  Server running... press ctrl-c to stop.
+^C[1m[7m%[27m[1m[0m                                                                                                                                                                                     ]2;stephane@dhcp-101-220: ~/ownCloud/WebGithub2/cayman]1;..ithub2/cayman[0m[27m[24m[J[35mstephane[00m[36m@[00m[33mdhcp-101-220[00m[31m:[00m[36m~/ownCloud/WebGithub2/cayman[00m[31m|[00m[00m[32mmaster[33m⚡[00m[00m 
+[36m⇒[00m  [K[?1h=[?2004h[7mscript/bootstrap[27m[16D[27m[32ms[27m[32mc[27m[32mr[27m[32mi[27m[32mp[27m[32mt[27m[32m/[27m[32mb[27m[32mo[27m[32mo[27m[32mt[27m[32ms[27m[32mt[27m[32mr[27m[32ma[27m[32mp[39m[?1l>[?2004l
+]2;script/bootstrap]1;script/bootstrapERROR:  While executing gem ... (Errno::EACCES)
+    Permission denied @ rb_sysopen - /usr/local/lib/ruby/gems/2.7.0/gems/bundler-2.1.4/CHANGELOG.md
+[1m[7m%[27m[1m[0m                                                                                                                                                                                     ]2;stephane@dhcp-101-220: ~/ownCloud/WebGithub2/cayman]1;..ithub2/cayman[0m[27m[24m[J[35mstephane[00m[36m@[00m[33mdhcp-101-220[00m[31m:[00m[36m~/ownCloud/WebGithub2/cayman[00m[31m|[00m[00m[32mmaster[33m⚡[00m[00m 
+[36m⇒[00m  [K[?1h=[?2004h[1m[31mc[0m[39m[0m[32mc[32md[39m [4m.[24m[4m.[4m.[24m[?1l>[?2004l
+]2;cd ..]1;cd[1m[7m%[27m[1m[0m                                                                                                                                                                                     ]2;stephane@dhcp-101-220: ~/ownCloud/WebGithub2]1;..ud/WebGithub2[0m[27m[24m[J[35mstephane[00m[36m@[00m[33mdhcp-101-220[00m[31m:[00m[36m~/ownCloud/WebGithub2[00m[31m|[00m
+[36m⇒[00m  [K[?1h=[?2004h[32mg[39m[1m[31mg[1m[31mi[0m[39m[0m[32mg[0m[32mi[32mt[39m [4mc[24m[24mclone [10D[1m[31mg[1m[31mi[1m[31mt[1m[31m [1m[31mc[1m[31ml[1m[31mo[1m[31mn[1m[31me[1m[31m [1m[31mgit@github.com:CoreMantleHouches/CoreMantleHouches.github.io.git[0m[27m[39m[74D[0m[32mg[0m[32mi[0m[32mt[39m[0m[39m [0m[39mc[0m[39ml[0m[39mo[0m[39mn[0m[39me[0m[39m [0m[39mg[0m[39mi[0m[39mt[0m[39m@[0m[39mg[0m[39mi[0m[39mt[0m[39mh[0m[39mu[0m[39mb[0m[39m.[0m[39mc[0m[39mo[0m[39mm[0m[39m:[0m[39mC[0m[39mo[0m[39mr[0m[39me[0m[39mM[0m[39ma[0m[39mn[0m[39mt[0m[39ml[0m[39me[0m[39mH[0m[39mo[0m[39mu[0m[39mc[0m[39mh[0m[39me[0m[39ms[0m[39m/[0m[39mC[0m[39mo[0m[39mr[0m[39me[0m[39mM[0m[39ma[0m[39mn[0m[39mt[0m[39ml[0m[39me[0m[39mH[0m[39mo[0m[39mu[0m[39mc[0m[39mh[0m[39me[0m[39ms[0m[39m.[0m[39mg[0m[39mi[0m[39mt[0m[39mh[0m[39mu[0m[39mb[0m[39m.[0m[39mi[0m[39mo[0m[39m.[0m[39mg[0m[39mi[0m[39mt[?1l>[?2004l
+]2;git clone git@github.com:CoreMantleHouches/CoreMantleHouches.github.io.git]1;gitClonage dans 'CoreMantleHouches.github.io'...
+Warning: Permanently added the RSA host key for IP address '140.82.121.4' to the list of known hosts.
+warning: Vous semblez avoir cloné un dépôt vide.
+[1m[7m%[27m[1m[0m                                                                                                                                                                                     ]2;stephane@dhcp-101-220: ~/ownCloud/WebGithub2]1;..ud/WebGithub2[0m[27m[24m[J[35mstephane[00m[36m@[00m[33mdhcp-101-220[00m[31m:[00m[36m~/ownCloud/WebGithub2[00m[31m|[00m
+[36m⇒[00m  [K[?1h=[?2004h[4mc[24m[24m[32mc[32md[39m [4mC[24m[4mC[4mo[24m[4mo[4mreMantle[24m[4me[4mH[24m[4mH[4mouches.github.io[1m[4m/[0m[24m[4mo[24m[0m[24m [?1l>[?2004l
+]2;cd CoreMantleHouches.github.io]1;cd[1m[7m%[27m[1m[0m                                                                                                                                                                                     ]2;stephane@dhcp-101-220: ~/ownCloud/WebGithub2/CoreMantleHouches.github.io]1;..hes.github.io[0m[27m[24m[J[35mstephane[00m[36m@[00m[33mdhcp-101-220[00m[31m:[00m[36m~/ownCloud/WebGithub2/CoreMantleHouches.github.io[00m[31m|[00m[00m[32mmaster[00m 
+[36m⇒[00m  [K[?1h=[?2004h[32ml[39m[32ml[32ms[39m[?1l>[?2004l
+]2;ls -G]1;ls[1m[7m%[27m[1m[0m                                                                                                                                                                                     ]2;stephane@dhcp-101-220: ~/ownCloud/WebGithub2/CoreMantleHouches.github.io]1;..hes.github.io[0m[27m[24m[J[35mstephane[00m[36m@[00m[33mdhcp-101-220[00m[31m:[00m[36m~/ownCloud/WebGithub2/CoreMantleHouches.github.io[00m[31m|[00m[00m[32mmaster[00m 
+[36m⇒[00m  [K[?1h=[?2004h[32ml[39m[32ml[32ms[39m[?1l>[?2004l
+]2;ls -G]1;ls[1m[7m%[27m[1m[0m                                                                                                                                                                                     ]2;stephane@dhcp-101-220: ~/ownCloud/WebGithub2/CoreMantleHouches.github.io]1;..hes.github.io[0m[27m[24m[J[35mstephane[00m[36m@[00m[33mdhcp-101-220[00m[31m:[00m[36m~/ownCloud/WebGithub2/CoreMantleHouches.github.io[00m[31m|[00m[00m[32mmaster[00m 
+[36m⇒[00m  [K[?1h=[?2004h[1m[31mc[0m[39m[0m[32mc[32mp[39m -r [4m.[24m[4m.[4m.[24m[4m.[4m/[24m[4m/[4mC[24m[24m.[24m.[24m/[24mC
+[J[1;31mCoreMantleHouches.github.io[0m/   [J[1;31mCoreMantleInteractions1[0m/       [Jcart_phiT_10_phiB_10_mode.pdf  [J[1;31mcayman[0m/                        [J[1;31mcecilelasserre.github.io[0m/    [J[A[0m[27m[24m[3C[32mcp[39m -r ../C[Ka
+[J[A[14C[4m.[4m.[4m/[4mc[4ma[24m[4ma[4my[24m[4my[4mman[1m[4m/[0m[24m[10D[24m.[24m.[24m/[24mc[24ma[24my[24mm[24ma[24mn[0m[24m/
+[J[0mGemfile                      README.md                    [1;31m_sass[0m/                       [1;31massets[0m/                      jekyll-theme-cayman.gemspec  typescript                 
+Gemfile.lock                 _config.yml                  [1;31m_site[0m/                       [1;31mdocs[0m/                        [1;31mscript[0m/                                                 
+[JLICENSE                      [J[1;31m_layouts[0m/                    [Janother-page.md              [Jindex.md                     [Jthumbnail.png                [J                           [3A[0m[27m[24m[3C[32mcp[39m -r ../cayman/[K[10D[4m.[4m.[4m/[4mc[4ma[4my[4mm[4ma[4mn[4m/[24m [4m.[24m[?1l>[?2004l
+[J]2;cp -i -r ../cayman/ .]1;cpoverwrite ./.git/config? (y/n [n]) n
+not overwritten
+overwrite ./.git/HEAD? (y/n [n]) n
+not overwritten
+overwrite ./.git/info/exclude? (y/n [n]) n
+not overwritten
+overwrite ./.git/description? (y/n [n]) n
+not overwritten
+overwrite ./.git/hooks/commit-msg.sample? (y/n [n]) n
+not overwritten
+overwrite ./.git/hooks/pre-rebase.sample? (y/n [n]) n
+not overwritten
+overwrite ./.git/hooks/pre-commit.sample? (y/n [n]) n
+not overwritten
+overwrite ./.git/hooks/applypatch-msg.sample? (y/n [n]) n
+not overwritten
+overwrite ./.git/hooks/fsmonitor-watchman.sample? (y/n [n]) n
+not overwritten
+overwrite ./.git/hooks/pre-receive.sample? (y/n [n]) n
+not overwritten
+overwrite ./.git/hooks/prepare-commit-msg.sample? (y/n [n]) ^C
+[1m[7m%[27m[1m[0m                                                                                                                                                                                     ]2;stephane@dhcp-101-220: ~/ownCloud/WebGithub2/CoreMantleHouches.github.io]1;..hes.github.io[0m[27m[24m[J[35mstephane[00m[36m@[00m[33mdhcp-101-220[00m[31m:[00m[36m~/ownCloud/WebGithub2/CoreMantleHouches.github.io[00m[31m|[00m[00m[32mmaster[33m⚡[00m[00m 
+[36m⇒[00m  [K[?1h=[?2004h[32ml[39m[32ml[32ms[39m[?1l>[?2004l
+]2;ls -G]1;lsGemfile                     README.md                   [1m[36m_sass[39;49m[0m                       [1m[36mdocs[39;49m[0m                        [1m[36mscript[39;49m[0m
+Gemfile.lock                _config.yml                 [1m[36m_site[39;49m[0m                       index.md                    thumbnail.png
+LICENSE                     [1m[36m_layouts[39;49m[0m                    another-page.md             jekyll-theme-cayman.gemspec typescript
+[1m[7m%[27m[1m[0m                                                                                                                                                                                     ]2;stephane@dhcp-101-220: ~/ownCloud/WebGithub2/CoreMantleHouches.github.io]1;..hes.github.io[0m[27m[24m[J[35mstephane[00m[36m@[00m[33mdhcp-101-220[00m[31m:[00m[36m~/ownCloud/WebGithub2/CoreMantleHouches.github.io[00m[31m|[00m[00m[32mmaster[33m⚡[00m[00m 
+[36m⇒[00m  [K[?1h=[?2004h[1m[31mc[0m[39m[0m[32mc[32md[39m [1m[31mc[0m[39m[39m [0m[39m [1m[31m\[0m[39m[0m[32m\[32mr[39m[32m\[32mr[32mm[39m -r [34m*[39m[?1l>[?2004l
+]2;\rm -r *]1;\rmzsh: sure you want to delete all 15 files in /Users/stephane/ownCloud/WebGithub2/CoreMantleHouches.github.io [yn]? y
+[1m[7m%[27m[1m[0m                                                                                                                                                                                     ]2;stephane@dhcp-101-220: ~/ownCloud/WebGithub2/CoreMantleHouches.github.io]1;..hes.github.io[0m[27m[24m[J[35mstephane[00m[36m@[00m[33mdhcp-101-220[00m[31m:[00m[36m~/ownCloud/WebGithub2/CoreMantleHouches.github.io[00m[31m|[00m[00m[32mmaster[33m⚡[00m[00m 
+[36m⇒[00m  [K[?1h=[?2004h[?1l>[?2004l
+[1m[7m%[27m[1m[0m                                                                                                                                                                                     ]2;stephane@dhcp-101-220: ~/ownCloud/WebGithub2/CoreMantleHouches.github.io]1;..hes.github.io[0m[27m[24m[J[35mstephane[00m[36m@[00m[33mdhcp-101-220[00m[31m:[00m[36m~/ownCloud/WebGithub2/CoreMantleHouches.github.io[00m[31m|[00m[00m[32mmaster[33m⚡[00m[00m 
+[36m⇒[00m  [K[?1h=[?2004h[32ml[39m[32ml[32ms[39m[?1l>[?2004l
+]2;ls -G]1;ls[1m[7m%[27m[1m[0m                                                                                                                                                                                     ]2;stephane@dhcp-101-220: ~/ownCloud/WebGithub2/CoreMantleHouches.github.io]1;..hes.github.io[0m[27m[24m[J[35mstephane[00m[36m@[00m[33mdhcp-101-220[00m[31m:[00m[36m~/ownCloud/WebGithub2/CoreMantleHouches.github.io[00m[31m|[00m[00m[32mmaster[33m⚡[00m[00m 
+[36m⇒[00m  [K[?1h=[?2004h[32ml[39m[32ml[32ms[39m -a[?1l>[?2004l
+]2;ls -G -a]1;ls[1m[36m.[39;49m[0m            [1m[36m..[39;49m[0m           [1m[36m.git[39;49m[0m         [1m[36m.github[39;49m[0m      .gitignore   .rubocop.yml
+[1m[7m%[27m[1m[0m                                                                                                                                                                                     ]2;stephane@dhcp-101-220: ~/ownCloud/WebGithub2/CoreMantleHouches.github.io]1;..hes.github.io[0m[27m[24m[J[35mstephane[00m[36m@[00m[33mdhcp-101-220[00m[31m:[00m[36m~/ownCloud/WebGithub2/CoreMantleHouches.github.io[00m[31m|[00m[00m[32mmaster[33m⚡[00m[00m 
+[36m⇒[00m  [K[?1h=[?2004h[1m[31mc[0m[39m[0m[32mc[32mp[39m [4m.[24m[4m.[4m.[24m[4m.[4m/[24m[4m/[4mc[24m[24m.[24m.[24m/[24mc
+[J[1;31mCoreMantleHouches.github.io[0m/   [J[1;31mCoreMantleInteractions1[0m/       [Jcart_phiT_10_phiB_10_mode.pdf  [J[1;31mcayman[0m/                        [J[1;31mcecilelasserre.github.io[0m/    [J[A[0m[27m[24m[3C[32mcp[39m ../c[K[4m.[4m.[4m/[24m [4m.[24m[24m [4m.[24m[24m [24m -r ,.  [4m.[24m[4m.[4m.[24m[4m.[4m/[24m[4m/[4mc[24m[4mc[4ma[24m[24m.[24m.[24m/[24mc[24ma
+[J[J[0mcart_phiT_10_phiB_10_mode.pdf  [J[1;31mcayman[0m/                      [J[A[0m[27m[24m[3C[32mcp[39m -r ../ca[K[4m.[4m.[4m/[4mc[4ma[4my[24m[4my[4mman[1m[4m/[0m[24m[0m[4m/[4m.[24m[4m/[24m[24m [10D[24m.[24m.[24m/[24mc[24ma[24my[24mm[24ma[24mn[24m/[34m*[39m[?1l>[?2004l
+[J]2;cp -i -r ../cayman/*]1;cpusage: cp [-R [-H | -L | -P]] [-fi | -n] [-apvXc] source_file target_file
+       cp [-R [-H | -L | -P]] [-fi | -n] [-apvXc] source_file ... target_directory
+[1m[7m%[27m[1m[0m                                                                                                                                                                                     ]2;stephane@dhcp-101-220: ~/ownCloud/WebGithub2/CoreMantleHouches.github.io]1;..hes.github.io[0m[27m[24m[J[35mstephane[00m[36m@[00m[33mdhcp-101-220[00m[31m:[00m[36m~/ownCloud/WebGithub2/CoreMantleHouches.github.io[00m[31m|[00m[00m[32mmaster[33m⚡[00m[00m 
+[36m⇒[00m  [K[?1h=[?2004h[32mcp[39m -r ../cayman/[34m*[39m [4m.[24
