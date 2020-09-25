@@ -45,8 +45,9 @@ Applications will open soon (November).
 [Les Houches school of Physics](https://www.houches-school-physics.com/)
 is located in Les Houches, at the entrance of the Chamonix valley, at
 the foot of the Mont-Blanc, in the French Alps. It offers all
-necessary facilities, with a lecture room (70 seats), several rooms
+necessary facilities, with a lecture room (70 seats, see image by Ed Garnero), several rooms
 for group working, internet access, a restaurant and chalets for
 housing. The price of school includes food, lodging and access to all
 facilities for the four weeks. 
 
+![LectureRoom](./assets/images/LectureRoom.jpg)
