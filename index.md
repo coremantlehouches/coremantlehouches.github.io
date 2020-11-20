@@ -11,16 +11,33 @@ research projects in small groups. The topics are chosen by
 brainstorming during the first two weeks. It is open to advanced PhD
 students and postdocs. 
 
-# Program
+# Program (preliminary)
 
-Core-mantle interactions from the formation of the Earth to the
-present time.
+* Geodynamics: Core dynamics, mantle dynamics, core formation, geo- and palaeomagnetism, geodynamo theory, core-mantle coupling.
+* Earth structure seen from its gravity field.
+* Seismology: body waves, normal modes and surface waves, inverse problem theory, seismic tomography, structure near the core-mantle boundary.
+* Mineral physics: Crystal structure, deformation mechanisms, ab initio calculations, physical properties of the core and mantle.
+* Geochemistry: Isotopic geochemistry, heterogeneity of the mantle, evolution of the Earth, core formation, magma ocean processes.
 
-Lectures on seismology, geodynamics, geomagnetism, geochemistry,
-mineral physics. 
-
-Reseach projects in small inter-disciplinary groups, with one or two
+First fortnight: Lectures, tutorials, seminars.
+Second fortnight: Reseach projects in small inter-disciplinary groups, with one or two
 senior researchers. 
+
+# Confirmed lecturers
+
+* Sanne Cottaar (Cambridge University)
+* David Dobson (University College London)
+* Paula Koelemeijer (Royal Holloway University)
+* Monika Korte (GFZ Potsdam)
+* Maylis Landeau (Institut de Physique du Globe de Paris)
+* Allen McNamara (Michigan State University)
+* Jonathan Mound(University of Leeds)
+* Isabelle Panet (Institut Géographique National)
+* Nathanaël Schaeffer (Université Grenoble Alpes)
+* Andreas Stracke (University of Münster)
+* Reidar Trønnes (Natural History Museum, Oslo)
+* Lidunka Vočadlo (University College London)
+* Richard Walker (University of Maryland)
 
 # Scientific committee
 
@@ -31,6 +48,7 @@ senior researchers.
 * Véronique Dehant, Observatoire Royal de Belgique.
 * John Brodholt, University College London.
 * Philippe Cardin, ISTerre, Grenoble, France.
+
 
 # Application and registration fee
 
