@@ -63,11 +63,11 @@ lodging and meals for the four weeks. Depending on grants we may
 obtain in the next few months, we may be able to offer fellowships to
 selected participants.
 
-Participants and lecturers may bring family to the school at their own
-expanse, at a rate of 64.80€/day for age above 12 and 32.40€/day
-for kids between 4 and 12 years old. Baby sitters may be arranged and
-full day care could be accomdated in the village
-[(https://www.leshouches.fr/education-enfance/centre-de-loisirs/)](https://www.leshouches.fr/education-enfance/centre-de-loisirs/).
+<!-- Participants and lecturers may bring family to the school at their own -->
+<!-- expanse, at a rate of 64.80€/day for age above 12 and 32.40€/day -->
+<!-- for kids between 4 and 12 years old. Baby sitters may be arranged and -->
+<!-- full day care could be accomdated in the village -->
+<!-- [(https://www.leshouches.fr/education-enfance/centre-de-loisirs/)](https://www.leshouches.fr/education-enfance/centre-de-loisirs/). -->
 
 # Location
 
