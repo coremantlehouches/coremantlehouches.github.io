@@ -56,7 +56,7 @@ The number of participants is limited to 50, the scientific committe will select
 the participants to ensure a diversity of fields. Applicants must send
 a CV with a few words on the topics of interest.
 
-Applications will open soon (November). 
+Applications are open through the [School's website](https://formulaires.univ-grenoble-alpes.fr/en/houches-application-form-july-2021).
 
 The registration fee is 1920€ (tax included) and covers the costs for
 lodging and meals for the four weeks. Depending on grants we may
