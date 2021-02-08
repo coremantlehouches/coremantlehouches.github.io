@@ -58,6 +58,9 @@ a CV with a few words on the topics of interest.
 
 Applications are open through the [School's website](https://formulaires.univ-grenoble-alpes.fr/en/houches-application-form-july-2021).
 
+**Application deadline** extended to **March 15** (despite what is
+  written on that website).
+
 The registration fee is 1920€ (tax included) and covers the costs for
 lodging and meals for the four weeks. Depending on grants we may
 obtain in the next few months, we may be able to offer fellowships to
