@@ -2,7 +2,17 @@
 layout: default
 title: Core mantle interactions through time
 ---
-# The school
+
+# The school <span style="color:red">*CANCELED*</span>
+
+<span style="color:red">
+Owing to the enduring COVID-19 situation and
+the implications on long distance travel, we had to cancel the
+school. Not however that we organise a smaller-scale school, on the
+same topics but with lecturers and participants coming from french
+institutions only, from July 5 to July 16. Details are available [here](https://geophysicshouches2021.github.io/).
+</span>
+
 
 This summer school follows the
 [CIDER](https://seismo.berkeley.edu/wiki_cider/Main_Page) program with
